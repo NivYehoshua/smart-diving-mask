@@ -17,6 +17,6 @@ An embedded system developed for a smart diving mask prototype to monitor, real 
 ## System Logic & Architecture
 The software architecture is built around a continuous polling loop that gathers sensor data, processes it through physics based algorithms, and feeds it into a state machine safety protocol.
 
-## 📂 Project Structure
+## Project Structure
 * 'smart-mask-code.cpp' - Main application code containing initialization, sensor reading, and the safety state machine.
 * 'smart-diving-mask-Project book' - Contains the full technical project book detailing algorithmic logic, hardware integration, and calibration processes.
