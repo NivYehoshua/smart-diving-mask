@@ -11,7 +11,7 @@ An embedded system developed for a smart diving mask prototype to monitor, real 
 ## Hardware & Technologies
 * **Microcontroller:** Arduino Uno (ATmega328P)
 * **Language:** C++ (Arduino Framework)
-* **Sensors:** FSR (Force Sensing Resistor) for pressure simulation, Potentiometer for initualizing depth.
+* **Sensors:** FSR (Force Sensing Resistor) for pressure simulation, Potentiometer for  initializing depth.
 * **Display:** 16x2 LCD Module.
 
 ## System Logic & Architecture
